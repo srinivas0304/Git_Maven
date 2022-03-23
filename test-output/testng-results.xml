@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12820" started-at="2022-03-21T21:10:59 IST" finished-at="2022-03-21T21:11:12 IST">
+  <suite name="Suite" duration-ms="12947" started-at="2022-03-23T09:55:23 IST" finished-at="2022-03-23T09:55:36 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12820" started-at="2022-03-21T21:10:59 IST" finished-at="2022-03-21T21:11:12 IST">
-      <class name="regression.LaunchBrowser">
-        <test-method status="PASS" signature="setup()[pri:0, instance:regression.LaunchBrowser@27f723]" name="setup" duration-ms="12783" started-at="2022-03-21T21:10:59 IST" finished-at="2022-03-21T21:11:12 IST">
+    <test name="Test" duration-ms="12947" started-at="2022-03-23T09:55:23 IST" finished-at="2022-03-23T09:55:36 IST">
+      <class name="demojenkins.ChromeBrowser">
+        <test-method status="PASS" signature="test()[pri:0, instance:demojenkins.ChromeBrowser@27f723]" name="test" duration-ms="12891" started-at="2022-03-23T09:55:23 IST" finished-at="2022-03-23T09:55:36 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-      </class> <!-- regression.LaunchBrowser -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- test -->
+      </class> <!-- demojenkins.ChromeBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
