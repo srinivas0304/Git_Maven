@@ -1,0 +1,5 @@
+demojenkins\SetUp_Demo.class
+regression\LaunchBrowser.class
+demojenkins\ChromeBrowser.class
+demojenkins\EdgeBrowser.class
+com\testcases\LoginTest.class
